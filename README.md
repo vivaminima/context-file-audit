@@ -1,4 +1,6 @@
-# claude-md-audit
+# context-file-audit
+
+Audits the `CLAUDE.md` files that Claude Code reads at session start.
 
 Find out how much context your `CLAUDE.md` takes up at session start, including everything it pulls in with `@import`.
 
@@ -37,7 +39,11 @@ python claude_md_audit.py --help
 
 ## The full kit
 
-Measuring is the easy part. Deciding which sections can move without the agent forgetting the rules that stopped past mistakes is the hard part. The Token Audit Kit ($19) adds the split guide, a real 13-project case study (46,816 → 23,066, all 40 sections kept) and a monthly checklist. Store link will be added here when it opens.
+Measuring is the easy part. Deciding which sections can move without the agent forgetting the rules that stopped past mistakes is the hard part. The Token Audit Kit ($19) adds the split guide, a real 13-project case study (46,816 → 23,066, all 40 sections kept) and a monthly checklist. Get it here: https://vivaminima.lemonsqueezy.com/checkout/buy/57973270-94ea-4cc7-bcb4-294693714087
+
+## More from Vivaminima
+
+- Free tools: [skill-audit-kit](https://github.com/vivaminima/skill-audit-kit) · [secret-map](https://github.com/vivaminima/secret-map) · [inbox-ledger](https://github.com/vivaminima/inbox-ledger) · [release-gate](https://github.com/vivaminima/release-gate) · [skill-install-gate](https://github.com/vivaminima/skill-install-gate) · [console-safe](https://github.com/vivaminima/console-safe) · [checklist-stop](https://github.com/vivaminima/checklist-stop) · [handoff-check](https://github.com/vivaminima/handoff-check) · [llm-budget-router-lite](https://github.com/vivaminima/llm-budget-router-lite) · [go-no-go-verdict-skill](https://github.com/vivaminima/go-no-go-verdict-skill) · [ai-company-starter-kit](https://github.com/vivaminima/ai-company-starter-kit) · [beginner-readme-section](https://github.com/vivaminima/beginner-readme-section)
 
 ## License
 
