@@ -1,5 +1,7 @@
 # context-file-audit
 
+*Part of the [Vivaminima tools](https://github.com/vivaminima) for Claude Code users.*
+
 Audits the `CLAUDE.md` files that Claude Code reads at session start.
 
 Find out how much context your `CLAUDE.md` takes up at session start, including everything it pulls in with `@import`.
@@ -39,7 +41,7 @@ python claude_md_audit.py --help
 
 ## The full kit
 
-Measuring is the easy part. Deciding which sections can move without the agent forgetting the rules that stopped past mistakes is the hard part. The Token Audit Kit ($19) adds the split guide, a real 13-project case study (46,816 → 23,066, all 40 sections kept) and a monthly checklist. Get it here: https://vivaminima.lemonsqueezy.com/checkout/buy/57973270-94ea-4cc7-bcb4-294693714087
+Measuring is the easy part. Deciding which sections can move without the agent forgetting the rules that stopped past mistakes is the hard part. The Token Audit Kit ($19) adds the split guide, a real 13-project case study (46,816 → 23,066, all 40 sections kept) and a monthly checklist. Get it here: https://vivastory4.gumroad.com
 
 ## More from Vivaminima
 
