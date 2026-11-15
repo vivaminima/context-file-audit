@@ -2,6 +2,8 @@
 
 *Part of the [Vivaminima tools](https://github.com/vivaminima) for Claude Code users.*
 
+<img src="https://raw.githubusercontent.com/vivaminima/vivaminima/main/img/run/context-file-audit.png" width="760" alt="context-file-audit: real output of the free version on a made-up sample">
+
 Audits the `CLAUDE.md` files that Claude Code reads at session start.
 
 Find out how much context your `CLAUDE.md` takes up at session start, including everything it pulls in with `@import`.
