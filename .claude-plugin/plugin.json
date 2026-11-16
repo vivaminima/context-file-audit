@@ -1,0 +1,17 @@
+{
+  "name": "context-file-audit",
+  "description": "Measure what your CLAUDE.md and its @imports cost at session start. Python stdlib only, MIT.",
+  "author": {
+    "name": "Vivaminima",
+    "url": "https://github.com/vivaminima"
+  },
+  "homepage": "https://vivastory4.gumroad.com",
+  "repository": "https://github.com/vivaminima/context-file-audit",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-md",
+    "cli",
+    "token-usage"
+  ]
+}
